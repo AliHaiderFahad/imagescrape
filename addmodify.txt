@@ -1,0 +1,14 @@
+Seller ID	 Author	 Title	 Illustrator	 Book condition	 Book size	 Jacket condition	 Binding	Book type	 ISBN	 Publisher	 Publish place	 Publish Date	 Edition	 Inscription	 Description	Quantity	 Price	 Image	 Category 1	 Category 2	 Category 3	 Category 4	 Category 5	 Keyword 1	Keyword 2	 Keyword 3	 Keyword 4	 Keyword 5	 Keyword 6	 Keyword 7	 Keyword 8	 Keyword 9	 Weight	Featured Item
+702135	Sandra Brown	Play Dirty: A Novel		Used - Acceptable			Paper Back		778326691	Pocket Books		Sep-19			 	1	4.5		1.1 Romance														0.67	
+702515	"Helen Edom,Mike Osborne"	Starting Soccer: Internet Linked (First Skills)		Used - Acceptable			Paper Back		399179313	Usborne Pub Ltd		Jan-06			 	1	2.25		2.2 Picture Books														0.25	
+702519	David Greenberg	Super Silly School Poems		Used - Good			Paper Back		2147483647	Orchard Books		Jun-14			 	1	3.5		2.2 Picture Books														0.1	
+702520	Laurie Krebs	Off We Go to Mexico		Used - Acceptable			Paper Back		684177803	Barefoot Books		Mar-08			 	1	3.6		3.3 Chr. General NF														0.35	
+702530	Various	Teenage Mutant Ninja Turtles Animated Volume 7: The Invasion (TMNT Animated Adaptation)		Used - Good			Paper Back		520027817	IDW Publishing		Feb-16			 	1	4		1.75 Graphic Novels														0.02	
+702535	Alison McGhee	Someday		Used - Good			Hardcover		520045890	Atheneum		Feb-07			 	1	4.95		2.2 Picture Books														0.15	
+	Alison McGhee			Used - Good			Hardcover		453003966										2.2 Picture Books															
+	Alison McGhee			Used - Good			Hardcover		195313666										2.2 Picture Books															
+	Alison McGhee			Used - Good			Hardcover		316210765										2.2 Picture Books															
+	Alison McGhee			Used - Good			Hardcover		1455525820										2.2 Picture Books															
+	Alison McGhee			Used - Good			Hardcover		471243787										2.2 Picture Books															
+	Alison McGhee			Used - Good			Hardcover		125005303										2.2 Picture Books															
+	Alison McGhee			Used - Good			Hardcover		802124011										2.2 Picture Books															
